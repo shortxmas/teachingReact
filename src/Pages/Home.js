@@ -8,7 +8,7 @@ export const Home = ()=>{
       <div>
 
         HOME
-
+awrawr
 
         
       </div>
